@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 
 - 🌱 Currently learning **React + Vite**
 - 💻 Building projects with MERN Stack
-- 📫 Reach me at **yourmail@gmail.com**
+- 📫 Reach me at **ekanshvishnoi6@gmail.com**
 
 ### Connect with me
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://linkedin.com/in/ekansh-vishnoi">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 ### Languages and Tools
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,mongodb,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,mysql,git,github,vscode" />
