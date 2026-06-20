@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi 👋, I'm Ekansh Vishnoi</h1>
+<h3 align="center">Web Developer | Machine Learning Enthusiast</h3>
+
+- 🌱 Currently learning **React + Vite**
+- 💻 Building projects with MERN Stack
+- 📫 Reach me at **yourmail@gmail.com**
+
+### Connect with me
+<a href="https://linkedin.com/in/yourprofile">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+### Languages and Tools
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,mongodb,mysql,git,github,vscode" />
