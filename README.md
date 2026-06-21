@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 ### Languages and Tools
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,mysql,git,github,vscode" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ekanshvishnoi&show_icons=true&theme=radical" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ekanshvishnoi&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ekanshvishnoi&show_icons=true&theme=radical" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ekanshvishnoi&layout=compact&theme=radical" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ekanshvishnoi&theme=radical" />
